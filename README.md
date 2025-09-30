@@ -1,7 +1,7 @@
-## Hi there, My name is B YIng 👋
+## Hi there, My name is Bo Ying 👋
 
 
-**Bo-Ying/Bo-Ying** is Master student in Statistics
+**Bo Ying** is Master student in Statistics
 
 Research Interests:
 
@@ -17,4 +17,4 @@ Personal Interest:
 
 Here are some of the recent research:
 
-- [Hybrid Greedy Pairs with Memoization Algorithm to solve the game Word Soup](https://github.com/Bo-Ying/Wordsoup)
+- [Hybrid Greedy Pairs with Memoization Algorithm to solve the game Word Soup](https://github.com/Bo-Ying/WordSoup)
