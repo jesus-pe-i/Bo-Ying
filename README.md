@@ -15,3 +15,6 @@ Personal Interest:
 - Football
 - Gym (No Cardio😁)
 
+Here are some of the recent research:
+
+- [Hybrid Greedy Pairs with Memoization Algorithm to solve the game Word Soup](https://github.com/Bo-Ying/WordSoup)
